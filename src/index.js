@@ -5,6 +5,7 @@ import './index.css';
 import '@popperjs/core';
 import CardsContainer from './CardsContainer';
 import Footer from './Footer'
+import "bootstrap"
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
