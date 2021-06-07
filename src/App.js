@@ -1,6 +1,6 @@
-import React from 'react';
-import Navbar from "./Components/Navbar/Navbar"
-import Jumbotron from "./Components/Jumbotron/Jumbotron"
+/*import React from 'react';
+//import Navbar from "./Components/Navbar/Navbar"
+//import Jumbotron from "./Components/Jumbotron/Jumbotron"
 import './App.css';
 
 function App() {
@@ -12,4 +12,4 @@ function App() {
   );
 }
 
-export default App;
+export default App;*/
