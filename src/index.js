@@ -3,12 +3,14 @@ import ReactDOM from 'react-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
 import '@popperjs/core';
-import App from './App';
+import CardsContainer from './CardsContainer';
+import Footer from './Footer'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <CardsContainer />
+    <Footer />
   </React.StrictMode>,
   document.getElementById('root')
 );
