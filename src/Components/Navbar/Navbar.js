@@ -3,6 +3,7 @@ import React from "react";
 function Navbar() {
 	return (
 		<nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div className="container">
 			<a className="navbar-brand" href="#">
 				Start Bootstrap
 			</a>
@@ -19,7 +20,7 @@ function Navbar() {
 			<div
 				className="collapse navbar-collapse d-flex justify-content-end"
 				id="navbarNav">
-				<ul className="navbar-nav">
+				<ul className="navbar-nav ml-auto">
 					<li className="nav-item active">
 						<a className="nav-link" href="#">
 							Home <span className="sr-only">(current)</span>
@@ -42,6 +43,7 @@ function Navbar() {
 					</li>
 				</ul>
 			</div>
+            </div>
 		</nav>
 	);
 }

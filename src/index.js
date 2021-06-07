@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap';
 import './index.css';
 import '@popperjs/core';
 import Navbar from "./Components/Navbar/Navbar"
 import Jumbotron from "./Components/Jumbotron/Jumbotron"
 import CardsContainer from './CardsContainer';
-import Footer from './Footer'
-import "bootstrap"
+import Footer from './Footer';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
