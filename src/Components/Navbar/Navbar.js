@@ -23,7 +23,7 @@ function Navbar() {
 				<ul className="navbar-nav ml-auto">
 					<li className="nav-item active">
 						<a className="nav-link" href="#">
-							Home <span className="sr-only">(current)</span>
+							 <span className="sr-only">Home</span>
 						</a>
 					</li>
 					<li className="nav-item">
