@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap';
+import 'bootstrap/dist/js/bootstrap.bundle';
 import './index.css';
 import '@popperjs/core';
 import Navbar from "./Components/Navbar/Navbar"
